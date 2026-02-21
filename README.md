@@ -1,4 +1,5 @@
 Personal waybar & hyperland configuration:
-<img width="1366" height="768" alt="2026-02-21-141354_hyprshot" src="https://github.com/user-attachments/assets/52965ef5-557a-4c06-8cf1-7cc74f18f26d" />
+<img width="1366" height="768" alt="2026-02-21-153854_hyprshot" src="https://github.com/user-attachments/assets/135c3c82-fe78-4c99-8d14-2c3df62d181f" />
+
 Waybar:
-<img width="1366" height="20" alt="2026-02-21-141435_hyprshot" src="https://github.com/user-attachments/assets/dffb7f93-3906-49e3-8e98-18bd9ce5b4b7" />
+<img width="1366" height="20" alt="2026-02-21-154429_hyprshot" src="https://github.com/user-attachments/assets/d6dd6c70-39c3-433d-8f93-90c996ae9f4e" />
